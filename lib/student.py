@@ -15,5 +15,3 @@ class ChattyStudent(Student):
         while count < 10:
             super().raise_hand()
             count += 1
-        
-            
